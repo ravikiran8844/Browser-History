@@ -1,0 +1,19 @@
+.header {
+  background-color: #3367d6;
+}
+.searchbar {
+  width: 300px;
+  height: 35px;
+  background-color: transparent;
+  outline: none;
+  color: #fff;
+}
+
+.searchBox {
+  border: 1px solid #2850a7;
+  background-color: #2850a7;
+}
+
+.historyItems {
+  box-shadow: 10px 10px 10px 10px #ececec;
+}
